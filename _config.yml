@@ -1,5 +1,5 @@
 # Site settings
-title: あるの倉庫
+title: まるの倉庫
 description: '放日文台詞或歌和程式相關的地方' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -50,7 +50,7 @@ fbadmin: ar.maybach
 
 # Paginate
 paginate: 6
-paginate_path: 'page:num'
+paginate_path: './page:num'
 words_per_minute: 200
 
 # Build settings
