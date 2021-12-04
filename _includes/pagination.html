@@ -6,6 +6,7 @@
     <p>"{{ paginator.next_page_path }}"</p>   
     <a href=".{{ paginator.next_page_path }}" class="next">Next <i class="fa fa-angle-right" aria-hidden="true"></i></a>
   {% else %}
+  <p>"{{ paginator.next_page == 'page2'}}"</p>   
     <a href="..{{ paginator.next_page_path }}" class="next">Next <i class="fa fa-angle-right" aria-hidden="true"></i></a>
     <!-- <a href=".{{ paginator.next_page_path }}" class="next">Next <i class="fa fa-angle-right" aria-hidden="true"></i></a> -->
   {% endif %}
