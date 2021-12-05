@@ -4,7 +4,8 @@ description: '放日文台詞或歌和程式相關的地方' # this means to ign
 permalink: ':title:output_ext'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com//"https://the-mvm.github.io"
-logo: "/assets/img/branding/MVM-logo-full.svg"
+logo: "/assets/img/branding/logo.svg"
+#"/assets/img/branding/MVM-logo-full.svg"
 logo-icon: "/assets/img/branding/MVM-symbol.svg"
 logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
 
