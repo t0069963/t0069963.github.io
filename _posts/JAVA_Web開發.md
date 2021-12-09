@@ -42,3 +42,45 @@ SPA
 Aybird
 
 Micro Profile
+
+JSP幾大隱含變數
+regnest
+respense
+apphicatim
+config
+sessiem
+page
+pageContext
+out
+sxception
+
+Stamdard Tag
+<jsp: useBean>
+<jsp: setProperty>
+<jsp: getProperty>
+<jsp: intclnde>
+<jsp: forward>
+
+Custem Tag
+<systex:licemse>
+<systex:Cemtact>
+
+WEB的四大Scope
+applicaation SercltCmfild
+sessim aspSession
+regust SerletRogust
+page Pagecounter
+
+ejb
+
+EE7以前CDI需要設定
+
+可以用<alternatives> 在 beans.xml設定檔內進行備用方案切換
+	
+WebFilter可以查看回應跟送出跟請求
+	
+JAVA EE 伺服器取值
+	
+MVC
+	
+Angular
