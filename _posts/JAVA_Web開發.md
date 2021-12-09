@@ -84,3 +84,5 @@ JAVA EE 伺服器取值
 MVC
 	
 Angular
+	
+WEBsocket 有即時性可以用

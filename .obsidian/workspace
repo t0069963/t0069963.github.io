@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/JAVA_Web開發.md",
+            "file": "_posts/名台詞/火影/2021-04-20-火影招式.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/JAVA_Web開發.md",
+                "file": "_posts/名台詞/火影/2021-04-20-火影招式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,11 @@
   },
   "active": "c70b18c74f10ff9d",
   "lastOpenFiles": [
+    "_posts/名台詞/火影/2021-04-20-火影招式.md",
+    "_posts/名台詞/火影/2021-04-20-我班願稱你為最強!.md",
     "_posts/JAVA_Web開發.md",
+    "_posts/名台詞/FATE/2021-04-20-FGO.md",
+    "_posts/名台詞/FATE/2021-04-20-天之杯詠唱.md",
     "_posts/名台詞/死神/2021-04-20-藍染破道九十.md",
     "README.md"
   ]
