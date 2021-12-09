@@ -86,3 +86,12 @@ MVC
 Angular
 	
 WEBsocket 有即時性可以用
+	
+> Resource Class->[@Path]#資源項
+Resource Method->[@GET @POST]#資源方法
+Subresource Method->[@GET @Path]#子資源方法
+Subresource Locator Method->[@Path]#子資源定位器方法
+Subresource Class->[X]#子資源項
+	
+CORS跨域請求
+[跨來源資源共用（CORS） - HTTP | MDN (mozilla.org)](https://developer.mozilla.org/zh-TW/docs/Web/HTTP/CORS)
