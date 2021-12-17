@@ -77,4 +77,8 @@ COMMIT or ROLLBACK
 
 usertransaction
 
+最佳化會因使用環境改變
+
+loaddata infine
+
 

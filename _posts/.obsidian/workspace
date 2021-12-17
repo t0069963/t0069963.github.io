@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 170
   },
   "right": {
     "id": "12045b32fd37f606",
@@ -99,8 +99,8 @@
   "active": "75130368fa10578a",
   "lastOpenFiles": [
     "SQL/第十三章-優化查詢.md",
-    "SQL/第十二章.md",
     "SQL/mysql.md",
+    "SQL/第十二章.md",
     "SQL/第四章- 準備好的報表.md",
     "Pasted image 20211217092542.png",
     "SQL/第三章 使用連接器.md",
