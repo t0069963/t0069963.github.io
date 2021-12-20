@@ -17,7 +17,7 @@ plain text->csv->csv->XML->JSON
 
 DataNucleus
 
-查NULL不能用等於要用IS
+查NULL不能用 所以等於要用IS
 
 Prepared Statements
 

@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SQL/第十三章-優化查詢.md",
+            "file": "歌曲/2021-12-19-夜に駆ける-YOASOBI.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "9a9e47aa903befc7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "歌曲/2021-12-19-夜に駆ける-YOASOBI.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 170
+    "width": 176
   },
   "right": {
     "id": "12045b32fd37f606",
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/第十三章-優化查詢.md",
+                "file": "歌曲/2021-12-19-夜に駆ける-YOASOBI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/第十三章-優化查詢.md"
+                "file": "歌曲/2021-12-19-夜に駆ける-YOASOBI.md"
               }
             }
           }
@@ -93,20 +104,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "75130368fa10578a",
   "lastOpenFiles": [
-    "SQL/第十三章-優化查詢.md",
-    "SQL/mysql.md",
-    "SQL/第十二章.md",
-    "SQL/第四章- 準備好的報表.md",
-    "Pasted image 20211217092542.png",
-    "SQL/第三章 使用連接器.md",
-    "SQL/SQL.md",
-    "名台詞/JOJO/2021-04-20-JOJO雜.md",
+    "歌曲/2021-12-19-夜に駆ける-YOASOBI.md",
     "歌曲/2021-12-12-Oz.-yama.md",
-    "歌曲/2021-12-12-カルデラ-黒木渚.md"
-  ]
-}
+    "歌
