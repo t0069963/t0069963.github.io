@@ -1,9 +1,9 @@
 - 储存格式發展
 plain text->csv->csv->XML->JSON
 
-- SQL tigger
+- SQL tigger 觸發
 
-- Subqueries
+- Subqueries 子查詢
 
 -資料異動
 
@@ -13,13 +13,13 @@ plain text->csv->csv->XML->JSON
 
 -做報表
 
--nosql
+-nosql 
 
 DataNucleus
 
 查NULL不能用 所以等於要用IS
 
-Prepared Statements
+Prepared Statements 參數化查詢
 
 DB最佳化
 
@@ -81,5 +81,10 @@ usertransaction
 
 loaddata infine
 
+Adapte
+
+Brief
+
+complete
 
 
