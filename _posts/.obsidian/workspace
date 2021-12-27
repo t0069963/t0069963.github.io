@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "c5fc4a7cbafcd114",
+    "id": "cb1adcb1a7d7d7ce",
     "type": "split",
     "children": [
       {
-        "id": "a89b54c2986bd68c",
+        "id": "abc8f3a260903934",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f4af3e41454c66f5",
+    "id": "26af86ffdeb3b496",
     "type": "split",
     "children": [
       {
-        "id": "3f867a4f661676bd",
+        "id": "293137cb4165935d",
         "type": "tabs",
         "children": [
           {
-            "id": "b3f27077d47b4cef",
+            "id": "0d6b22ceb1894a35",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "110056c21b76de1d",
+            "id": "3c117f8f6352e069",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,18 +53,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 115
+    "width": 174
   },
   "right": {
-    "id": "54cf242af8c59a69",
+    "id": "2503ff61219afe48",
     "type": "split",
     "children": [
       {
-        "id": "238165c1a0bda81a",
+        "id": "73197f9a71a99cf6",
         "type": "tabs",
         "children": [
           {
-            "id": "427d1bd99532121a",
+            "id": "3316bdfa52eb5c45",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -81,7 +81,7 @@
             }
           },
           {
-            "id": "f5897ee7855f9653",
+            "id": "c126ffe3ffcc06e3",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -97,17 +97,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a89b54c2986bd68c",
+  "active": "abc8f3a260903934",
   "lastOpenFiles": [
     "名台詞/鋼彈/團長.md",
     "名台詞/灌籃高手/2021-04-20-灌籃高手.md",
-    "JAVA_EE/JAVA_Web開發.md",
-    "Day1.pdf",
-    "程式相關/Spring/day1_1.png",
-    "程式相關/Spring/Pasted image 20211224090109.png",
-    "程式相關/Spring/Day2.md",
-    "程式相關/Spring/Day1.md",
-    "程式相關/Spring/未命名.md",
-    "程式相關/Spring/day1_5.png"
+    "Day1.pdf"
   ]
 }
