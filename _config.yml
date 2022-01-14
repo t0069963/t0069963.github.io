@@ -2,8 +2,8 @@
 title: まるの倉庫
 description: '放日文台詞或歌和程式相關的地方' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://t0069963.github.io/marublog/" # the base hostname & protocol for your site, e.g. http://example.com//"https://the-mvm.github.io"
+baseurl: "https://t0069963.github.io/marublog/" # the subpath of your site, e.g. /blog
+url: "https://t0069963.github.io/" # the base hostname & protocol for your site, e.g. http://example.com//"https://the-mvm.github.io"
 logo: "/assets/img/branding/logo1.svg"
 #"/assets/img/branding/MVM-logo-full.svg"
 logo-icon: "/assets/img/branding/MVM-symbol.svg"
@@ -53,7 +53,7 @@ fbadmin: ar.maybach
 # Paginate
 paginate: 6
 paginate_path: 'page:num'
-words_per_minute: 20
+words_per_minute: 10
 #200
 # Build settings
 markdown: kramdown
