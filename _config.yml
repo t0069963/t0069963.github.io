@@ -1,5 +1,5 @@
 # Site settings
-title: まるの倉庫
+title: まるのそうこ
 description: '放日文台詞或歌和程式相關的地方' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/marublog" # the subpath of your site, e.g. /blog
