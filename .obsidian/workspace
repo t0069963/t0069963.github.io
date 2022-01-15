@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/歌曲/2022-01-14-heart of sword ～夜明け前～-T.M.Revolution.md",
+            "file": "_posts/歌曲/2022-01-15-真ゲッターロボ 世界最後の日-影山ヒロノブ.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/歌曲/2022-01-14-heart of sword ～夜明け前～-T.M.Revolution.md",
+                "file": "_posts/歌曲/2022-01-15-真ゲッターロボ 世界最後の日-影山ヒロノブ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "a0ac8ed97e3e886b",
   "lastOpenFiles": [
+    "_posts/歌曲/2022-01-15-真ゲッターロボ 世界最後の日-影山ヒロノブ.md",
     "_posts/歌曲/2022-01-14-heart of sword ～夜明け前～-T.M.Revolution.md",
     "_posts/歌曲/2021-12-12-Oz.-yama.md",
     "_posts/歌曲/2021-12-12-カルデラ-黒木渚.md",
@@ -96,7 +97,6 @@
     "_posts/名台詞/火影/2021-12-12-火影招式.md",
     "_posts/名台詞/刀劍神域/2021-04-20-刀劍神域.md",
     "_posts/名台詞/鋼彈/團長.md",
-    "README.md",
-    "_posts/SQL/mysql.md"
+    "README.md"
   ]
 }
