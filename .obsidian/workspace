@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/名台詞/火影/2021-04-20-我班願稱你為最強!.md",
+            "file": "_posts/歌曲/2022-01-18-言って-ヨルシカ.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100
   },
   "right": {
     "id": "1b37dd6fa22facc1",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/名台詞/火影/2021-04-20-我班願稱你為最強!.md",
+                "file": "_posts/歌曲/2022-01-18-言って-ヨルシカ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a0ac8ed97e3e886b",
   "lastOpenFiles": [
-    "_posts/名台詞/火影/2021-04-20-我班願稱你為最強!.md",
-    "_posts/名台詞/火影/2021-12-12-火影招式.md",
-    "_posts/歌曲/2021-12-12-Oz.-yama.md",
-    "_posts/歌曲/2021-12-12-カルデラ-黒木渚.md",
-    "_posts/歌曲/2022-01-14-heart of sword ～夜明け前～-T.M.Revolution.md",
+    "_posts/歌曲/2022-01-18-言って-ヨルシカ.md",
     "_posts/歌曲/2022-01-15-真ゲッターロボ 世界最後の日-影山ヒロノブ.md",
+    "_posts/歌曲/2021-12-12-カルデラ-黒木渚.md",
+    "README.md",
+    "_posts/名台詞/火影/2021-04-20-我班願稱你為最強!.md",
+    "_posts/歌曲/2021-12-12-Oz.-yama.md",
+    "_posts/歌曲/2022-01-14-heart of sword ～夜明け前～-T.M.Revolution.md",
+    "_posts/名台詞/火影/2021-12-12-火影招式.md",
     "_posts/名台詞/FATE/2021-04-20-天之杯詠唱.md",
-    "_posts/名台詞/假面騎士/2021-04-20-W.md",
-    "_posts/名台詞/鋼之煉金術師/2021-04-20-鋼之煉金術師.md",
-    "_posts/名台詞/FATE/2021-04-20-FGO.md"
+    "_posts/名台詞/假面騎士/2021-04-20-W.md"
   ]
 }
