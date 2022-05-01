@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/名台詞/遊戲王/2022-03-01-遊戲王打牌台詞.md",
+            "file": "_posts/名台詞/JOJO/2021-04-20-普奇神父名言.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#名台詞",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482
+    "width": 482,
+    "collapsed": true
   },
   "right": {
     "id": "1b37dd6fa22facc1",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/名台詞/遊戲王/2022-03-01-遊戲王打牌台詞.md",
+                "file": "_posts/名台詞/JOJO/2021-04-20-普奇神父名言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "a0ac8ed97e3e886b",
   "lastOpenFiles": [
-    "_posts/名台詞/遊戲王/2022-03-01-遊戲王打牌台詞.md",
-    "_posts/歌曲/2021-12-12-カルデラ-黒木渚.md",
-    "_posts/名台詞/死亡筆記本/2022-02-14-死亡筆記本.md",
-    "_posts/名台詞/火影/2021-12-12-火影招式.md",
-    "_posts/名台詞/火影/2021-04-20-我班願稱你為最強!.md",
-    "_posts/歌曲/2021-12-12-Oz.-yama.md",
-    "_posts/名台詞/死神/2021-04-20-藍染破道九十.md",
+    "_posts/名台詞/JOJO/2021-04-20-普奇神父名言.md",
     "_posts/名台詞/JOJO/2021-04-20-JOJO雜.md",
-    "_posts/名台詞/我英/2021-04-20-我英.md",
-    "_posts/歌曲/2022-01-26-unravel-TK.md"
+    "_posts/名台詞/JOJO/2021-04-20-世界真實的能力.md",
+    "_posts/名台詞/JOJO/2021-04-20-大總統名言.md",
+    "_posts/名台詞/JOJO/2021-04-20-但是我拒絕.md",
+    "assets/img/posts/07fa3eda81cb39dbe924635ed2160924aa183094.jpg",
+    "assets/img/posts/14350302211.jpg",
+    "assets/img/posts/16330004n4s10n7808qp.jpg",
+    "assets/img/posts/1920px-Bleach_Logo.svg.png",
+    "assets/img/posts/Fate_Stay_Night_Logo.png"
   ]
 }
