@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/名台詞/JOJO/2021-04-20-普奇神父名言.md",
+            "file": "_posts/歌曲/2022-06-12-flos.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482,
-    "collapsed": true
+    "width": 482
   },
   "right": {
     "id": "1b37dd6fa22facc1",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/名台詞/JOJO/2021-04-20-普奇神父名言.md",
+                "file": "_posts/歌曲/2022-06-12-flos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "a0ac8ed97e3e886b",
   "lastOpenFiles": [
-    "_posts/名台詞/JOJO/2021-04-20-普奇神父名言.md",
-    "_posts/名台詞/JOJO/2021-04-20-JOJO雜.md",
-    "_posts/名台詞/JOJO/2021-04-20-世界真實的能力.md",
-    "_posts/名台詞/JOJO/2021-04-20-大總統名言.md",
-    "_posts/名台詞/JOJO/2021-04-20-但是我拒絕.md",
-    "assets/img/posts/07fa3eda81cb39dbe924635ed2160924aa183094.jpg",
-    "assets/img/posts/14350302211.jpg",
-    "assets/img/posts/16330004n4s10n7808qp.jpg",
-    "assets/img/posts/1920px-Bleach_Logo.svg.png",
-    "assets/img/posts/Fate_Stay_Night_Logo.png"
+    "_posts/歌曲/2022-06-12-flos.md",
+    "_posts/歌曲/2022-01-26-unravel-TK.md",
+    "assets/img/branding/MVM-logo-text.svg",
+    "assets/img/branding/MVM-logo-text.png",
+    "assets/img/branding/MVM-logo-full-dark.svg",
+    "assets/img/branding/MVM-logo-full.svg",
+    "assets/img/branding/MVM-logo.png",
+    "assets/img/branding/logo1.svg",
+    "assets/img/branding/logo.png",
+    "assets/img/branding/background.jpg"
   ]
 }
