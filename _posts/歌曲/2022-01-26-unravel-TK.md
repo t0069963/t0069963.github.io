@@ -2,13 +2,15 @@
 layout: post
 read_time: true
 show_date: true
-title: "unravel"
+title: unravel
 date: 2022-01-26
 img: 
-tags: [日文歌曲,TK]
+tags:
+  - 日文歌曲
+  - TK
 category: opinion
 author: maru
-description: "unravel"
+description: unravel
 ---
 ><div><ruby><rb>教</rb><rt>おし</rt></ruby>えて <ruby><rb>教</rb><rt>おし</rt></ruby>えてよ その<ruby><rb>仕組</rb><rt>しく</rt></ruby>みを</div>
 
