@@ -5,11 +5,12 @@ show_date: true
 title: "heart of sword ～夜明け前～"
 date: 2022-01-14
 img: 
-tags: [日文歌曲,T.M.Revolution]
+tags: [日文歌曲]
 category: opinion
 author: maru
 description: "heart of sword ～夜明け前～"
----      
+---
+
 ><div><ruby><rb>獨</rb><rt>ひと</rt></ruby>りでは <ruby><rb>遠</rb><rt>とお</rt></ruby>い<ruby><rb>明日</rb><rt>あした</rt></ruby>を</div>
 独自一人 走在黎明時分
 

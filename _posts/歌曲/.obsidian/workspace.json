@@ -4,31 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c32efafe16a250a0",
+        "id": "45ae95cbf397bd83",
         "type": "tabs",
         "children": [
           {
-            "id": "18b245ca6b1b4317",
+            "id": "314905d32191bef6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-06-12-flos.md",
-                "mode": "preview",
-                "source": false
-              }
+                "file": "2024-12-15-僕が死のうと思ったのは.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-15-僕が死のうと思ったのは"
             }
           },
           {
-            "id": "1a59fd30b7ed9934",
+            "id": "5024284a9f41594d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-16-悪魔の子.md",
+                "file": "2024-12-15-僕が死のうと思ったのは.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-15-僕が死のうと思ったのは"
             }
           }
         ],
@@ -52,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
             }
           },
           {
@@ -67,15 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "9481c58b598d385d",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
             }
           },
           {
@@ -83,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
             }
           }
         ]
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-02-16-悪魔の子.md",
+                "file": "2024-12-15-僕が死のうと思ったのは.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "2024-12-15-僕が死のうと思ったのは 的反向連結"
             }
           },
           {
@@ -123,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-02-16-悪魔の子.md",
+                "file": "2024-12-15-僕が死のうと思ったのは.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "2024-12-15-僕が死のうと思ったのは 的對外連結"
             }
           },
           {
@@ -137,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
             }
           },
           {
@@ -146,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-16-悪魔の子.md"
-              }
+                "file": "2024-12-15-僕が死のうと思ったのは.md"
+              },
+              "icon": "lucide-list",
+              "title": "2024-12-15-僕が死のうと思ったのは 的大綱"
             }
           }
         ]
@@ -167,16 +177,20 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "1a59fd30b7ed9934",
+  "active": "5024284a9f41594d",
   "lastOpenFiles": [
-    "2021-12-12-Oz.-yama.md",
+    "2024-10-03-Rain.md",
+    "2024-12-15-僕が死のうと思ったのは.md",
     "2024-02-16-悪魔の子.md",
-    "2022-01-26-unravel-TK.md",
-    "2022-06-12-flos.md",
     "2022-01-19-その血の運命-富永弘明.md",
-    "2022-01-18-言って-ヨルシカ.md",
     "2022-01-15-真ゲッターロボ 世界最後の日-影山ヒロノブ.md",
     "2022-01-14-heart of sword ～夜明け前～-T.M.Revolution.md",
-    "2021-12-12-カルデラ-黒木渚.md"
+    "2021-12-12-カルデラ-黒木渚.md",
+    "2021-12-12-Oz.-yama.md",
+    "2022-01-18-言って-ヨルシカ.md",
+    "2022-01-26-unravel-TK.md",
+    "2022-06-12-flos.md",
+    "未命名.canvas",
+    "未命名 1.canvas"
   ]
 }
